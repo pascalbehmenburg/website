@@ -22,7 +22,7 @@ You can achieve synchronous connection pooling with `r2d2-postgres` without any 
 ### Async
 * Client: `cornucopia_async`.
 * Runtime: `tokio`.
-* Driver: `tokio_postgres`.
+* Driver: `tokio-postgres`.
 * Async tools: `futures`.
 
 #### (Optional) Async connection pooling
